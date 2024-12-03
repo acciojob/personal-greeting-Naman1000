@@ -11,6 +11,4 @@ export const Greeting = ({ name }) => {
 };
 
 
-
-
 ReactDOM.render(<App />, document.getElementById("root"));
