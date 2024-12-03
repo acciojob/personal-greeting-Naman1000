@@ -2,15 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
 
-const Greeting = ({ name }) => {
+export const Greeting = ({ name }) => {
   return (
     <div>
       <h2>Hello {name}</h2>
     </div>
   );
 };
-
-export default Greeting;
 
 
 
