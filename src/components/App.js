@@ -8,7 +8,7 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
 
-     <Greeting name={"Rahul"} />
+     
     </div>
   )
 }
